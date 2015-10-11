@@ -11,8 +11,8 @@ using UIKit;
 
 namespace SingleViewApp
 {
-	[Register ("RootViewController")]
-	partial class RootViewController
+	[Register ("MyView")]
+	partial class MyView
 	{
 		void ReleaseDesignerOutlets ()
 		{
